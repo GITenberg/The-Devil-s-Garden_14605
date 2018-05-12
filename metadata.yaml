@@ -1,0 +1,29 @@
+_repo: The-Devil-s-Garden_14605
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maxwell, W. B. (William Babington)
+    alias: Maxwell, William Babington
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '5590'
+    url: http://www.gutenberg.org/2009/agents/5590
+    wikipedia: http://en.wikipedia.org/wiki/W._B._Maxwell
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Devil's Garden
+url: http://www.gutenberg.org/ebooks/14605
